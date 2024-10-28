@@ -57,7 +57,7 @@ Introducing Careercraft, an AIs-Optimized Resume Analyzer E your ultimate soluti
     
 
 with col2:
-    st.image("image1.png", use_column_width=True)
+    st.image("https://cdn.dribbble.com/userupload/12500996/file/original-b458fe398a6d7f4e9999ce66ec856ff9.gif", use_column_width=True)
 
 avs.add_vertical_space(10)
     
